@@ -1,5 +1,5 @@
 
-<p align="center"><img width="600px"
+<p align="center"><img width="1000px"
    style="margin-bottom:-6px" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=crystalsystem.js&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=random"<img/></p>
    
 <p align="center">
@@ -12,7 +12,7 @@
 
 </p>
 
-<p align="center"><img width="600px"
+<p align="center"><img width="1000px"
    style="margin-bottom:-6px" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=footer"<img/></p>
 
 ## 🤷‍♂️ What is crystalsystem.js ?
