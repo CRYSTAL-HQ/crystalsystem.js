@@ -46,7 +46,7 @@ const stats = require('crystalsystem.js');
 <br>
 
 ## 🌐 DEMO:
-- Here How Its Actually Look On Console :
+- Here How Its Actually Look On Live Console :
 
 <a href="https://replit.com/@CRYSTALNPM/crystalsystemjs?v=1"><img width="200px" src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=Replit&logoColor=orange" /></a>
 
